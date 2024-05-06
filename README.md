@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas  vindas ao meu perfil 🌟
 
-<!--
-**BeatrizFerraci/BeatrizFerraci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Beatriz Ferracini 
 
-Here are some ideas to get you started:
+- Estudante do curso [ALURA](https://www.alura.com.br)
+- Desenvolvendo a linguagem JavaScript
+- Uso o espaço para compartilhar projetos e organizá-los
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Entre em contato comigo ⤵️
+
+  biabeaferracini@gmail.com
+
+
+![](https://media1.tenor.com/m/seeuD4x_cygAAAAC/stitch.gif)
+
